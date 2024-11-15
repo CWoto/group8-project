@@ -56,17 +56,14 @@ The objectives to the study include;
 ## Visualizations
 
 
+## Recommendations
+From the above analysis, Horror movies tend to give the highest Return On Investment and therefore the company can consider horror movies for production.
 
-objective3.
-## The graph on the right shows the distribution of movies in each genre type. The Genre 'Drama' had the highest count of movies used in this analysis while the Genre 'news' had the least count of movies used in this analysis	
-### The graph on the left shows the average rating of each genre plotted in the graph. The Genre 'Documentary' had the the highest average rating while the Genre 'Horro' had the least average rating.
+Genre documentary and adventure gives a good average rating and therefore recommends them for consideration by the company
+
+The higher the production budget, the Higher the total_revenue. We would therefore advise that the company should consider the production budget of a movie before production.
 
 
-objective4 image
-##  From the visualization above,it is evident that the top 5 monthly releases with the highest returns are January,July,April and October. We would therefore advise this month's to be the best time to make movie releases in order for them to have maximum impact and potentially capitalize on periods of higher consuming spending
 
-objective4-2
-## From the plot above,we can conclude that the months with the highest ratings are November,May,June and July.It thus advisable to release movies on the particular month
 
-objective 4-3
-## From the plot above it is evident that high return movies do not necessarily have the highest ratings.Therefore,for a movie to get optimal results with a relatively good rating and high returns,it is preferrable to release it between the month of October and February.
+
