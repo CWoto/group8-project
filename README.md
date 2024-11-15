@@ -52,16 +52,13 @@ The objectives to the study include;
 - working_data_file.csv
 
 
-
-## Visualizations
-
-
 ## Recommendations
-From the above analysis, Horror movies tend to give the highest Return On Investment and therefore the company can consider horror movies for production.
+- We would advise Majestic Motions to highlight  January, July and April as the prime months for movie releases in order to make profitable returns.
 
-Genre documentary and adventure gives a good average rating and therefore recommends them for consideration by the company
+- In terms of ratings, we would advise majestic motions to consider November as the best month to release movies in order to increase their ratings.
 
-The higher the production budget, the Higher the total_revenue. We would therefore advise that the company should consider the production budget of a movie before production.
+- In order to get optimal results that include relatively high ratings and returns the best time to release their movies would be October & November.
+Horror, mystery and thriller genres had the highest return
 
 
 
